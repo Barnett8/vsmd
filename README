@@ -1,4 +1,5 @@
-A CUDA port of vsmd to practice accelerator programming, see GPU speed-up of MD software, and learn the basics of writing MD code.
+A CUDA port of vsmd to practice accelerator programming, see GPU speed-up of 
+MD software, and learn the basics of writing MD code.
 
 
 
